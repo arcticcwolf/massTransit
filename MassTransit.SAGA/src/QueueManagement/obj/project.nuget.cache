@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4o6sSwNNInHMczXI0vHacWsf4MUP7iXViXEH5ZVNW7prm1b4jaAeCnKi4LQHZILrsZqKjWEwDcujIXq1FtTzzg==",
+  "success": true,
+  "projectFilePath": "D:\\code\\MassTransit.SAGA\\src\\QueueManagement\\QueueManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andres.costas\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512",
+    "C:\\Users\\andres.costas\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\andres.costas\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\andres.costas\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\andres.costas\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
